@@ -1,3 +1,10 @@
+# Angular 11 Tutorial - Code a Project from Scratch
+
+https://www.youtube.com/watch?v=LiOzTQAz13Q&t=1226s
+
+https://github.com/bobangajicsm/ng-video-games-db
+https://rapidapi.com/accujazz/api/rawg-video-games-database/details
+
 # NgVideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
